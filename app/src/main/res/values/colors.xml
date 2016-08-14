@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="lightish_gray">#ffaaaaaa</color>
+    <color name="transparent">#00000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="blue">#009fdb</color>
+    <color name="translucent_light">#55ffffff</color>
+    <color name="translucent_black">#80000000</color>
+    <color name="grey">#2C2C2C</color>
+    <color name="pink">#f40057</color>
+    <color name="coklat">#131313</color>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="black">#000000</color>
+    <color name="red">#fb0606</color>
+    <color name="black_semi_transparent">#B2000000</color>
+    <color name="doc_grid_entry_shadow">#ffd4d4d4</color>
+    <color name="list_divider">#d9d9d9</color>
+    <color name="list_row_start_color">#ffffff</color>
+    <color name="list_row_end_color">#ffffff</color>
+    <color name="list_row_hover_start_color">#ebeef0</color>
+    <color name="list_row_hover_end_color">#ebeef0</color>
+    <color name="colorbar">#2c3239</color>
+    <color name="colorbackground">#f2f3f4</color>
+    <color name="colorblack">#000</color>
+    <color name="colorgreen">#06bebd</color>
+    <color name="colortabback">#191f28</color>
+    <color name="colorwhitebackground">#fff</color>
+    <color name="colorblue">#2196f3</color>
+    <color name="ratingbar">#ff9800</color>
+    <color name="colortitletext">#3c4350</color>
+    <color name="colorheadtext">#696d6f</color>
+    <color name="colorwhite">#FFFFFF</color>
+    <color name="medium_grey">#9E9E9E</color>
+    <color name="button_grey">#757575</color>
+</resources>

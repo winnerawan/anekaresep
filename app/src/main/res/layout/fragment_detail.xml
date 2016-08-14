@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#f5f5f5"
+
+    >
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginBottom="52dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+
+            android:orientation="vertical">
+
+
+            <ImageView
+
+                android:layout_width="match_parent"
+                android:layout_height="250dp"
+                android:scaleType="fitXY"
+                android:src="@drawable/whitepasta"
+                />
+
+            <!--//Description-->
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#fff"
+                android:padding="10dp"
+
+                >
+
+                <TextView
+                    android:id="@+id/description"
+                    android:layout_marginTop="8dp"
+                    android:layout_marginBottom="8dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textSize="14dp"
+                    android:letterSpacing="0.04"
+                    android:lineSpacingExtra="0.5dp"
+                    android:layout_marginRight="10dp"
+                    android:layout_marginLeft="10dp"
+
+                    android:textColor="@color/colortitletext"
+                    android:text="The watercress sauce used to flavor these sweet potatoes is a twist on classic Argentinian chimichurri sauce, which calls for parsley. "/>
+            </LinearLayout>
+
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:orientation="horizontal"
+                android:padding="10dp"
+
+                android:layout_gravity="center"
+                android:gravity="center"
+                android:weightSum="1">
+
+                <!--//price //-->
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    >
+
+                    <net.winnerawan.anekaresep.helper.MyTextView
+                        android:layout_width="250dp"
+                        android:layout_height="wrap_content"
+                        android:text="Resep Ayam Tandori Chicken Enak Resep Masakan India"
+                        android:id="@+id/title"
+                        android:gravity="center"
+                        android:textSize="15dp"
+                        android:letterSpacing="0.04"
+                        android:textColor="@color/colortitletext"/>
+
+
+                </LinearLayout>
+
+                <!--//outlet//-->
+
+                <!--// estimated //-->
+
+                <!--//  rating //-->
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:paddingLeft="10dp"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:layout_gravity="center_vertical"
+                    android:layout_weight="0.25">
+
+                    <net.winnerawan.anekaresep.helper.MyTextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="Rating"
+                        android:gravity="center"
+                        android:letterSpacing="0.04"
+                        android:textSize="15dp"
+                        android:textColor="@color/colortitletext"/>
+
+                    <RatingBar
+                        android:id="@+id/ratings"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:rating="4"
+                        style="?android:attr/ratingBarStyleSmall"
+                        android:backgroundTint="@color/ratingbar"
+                        android:secondaryProgressTint="@color/ratingbar"
+                        android:progressTint="@color/ratingbar"
+
+
+                        />
+                </LinearLayout>
+
+
+
+
+
+
+
+            </LinearLayout>
+
+
+
+            <!--//ingredint//-->
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#fff"
+
+                android:orientation="vertical"
+                android:padding="10dp"
+                >
+
+
+                <net.winnerawan.anekaresep.helper.MyTextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Ingredints"
+                    android:textColor="@color/colortitletext"
+                    android:textSize="18dp"
+                    android:letterSpacing="0.05"
+                    android:layout_marginRight="10dp"
+                    android:layout_marginLeft="10dp"
+                    />
+                <net.winnerawan.anekaresep.helper.MyTextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="1 ½ cups packed, trimmed watercress sprigs"
+                    android:layout_marginTop="8dp"
+                    android:textColor="@color/colorheadtext"
+                    android:layout_marginRight="10dp"
+                    android:layout_marginLeft="10dp"
+                    android:textSize="14dp"/>
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:background="@color/colorbackground"
+                    android:layout_marginTop="5dp"/>
+
+                <net.winnerawan.anekaresep.helper.MyTextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textColor="@color/colorheadtext"
+                    android:text="2 green onions, thinly sliced (¼ cup)"
+                    android:layout_marginTop="8dp"
+                    android:layout_marginRight="10dp"
+                    android:layout_marginLeft="10dp"
+                    android:textSize="14dp"/>
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:background="@color/colorbackground"
+                    android:layout_marginTop="5dp"/>
+                <net.winnerawan.anekaresep.helper.MyTextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="3 Tbs. vegetable oil"
+                    android:textColor="@color/colorheadtext"
+                    android:layout_marginTop="8dp"
+                    android:layout_marginRight="10dp"
+                    android:layout_marginLeft="10dp"
+                    android:textSize="14dp"/>
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:background="@color/colorbackground"
+                    android:layout_marginTop="5dp"/>
+                <net.winnerawan.anekaresep.helper.MyTextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="2 Tbs. lemon juice"
+                    android:textColor="@color/colorheadtext"
+                    android:layout_marginTop="8dp"
+                    android:textSize="14dp"
+                    android:layout_marginRight="10dp"
+                    android:layout_marginLeft="10dp"/>
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:background="@color/colorbackground"
+                    android:layout_marginTop="5dp"/>
+                <net.winnerawan.anekaresep.helper.MyTextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="1 Tbs. chopped fresh marjoram"
+                    android:textColor="@color/colorheadtext"
+                    android:layout_marginTop="8dp"
+                    android:textSize="14dp"
+                    android:layout_marginRight="10dp"
+                    android:layout_marginLeft="10dp"/>
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:background="@color/colorbackground"
+                    android:layout_marginTop="5dp"/>
+                <net.winnerawan.anekaresep.helper.MyTextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="1 clove garlic, peeled"
+                    android:textColor="@color/colorheadtext"
+                    android:layout_marginTop="8dp"
+                    android:textSize="14dp"
+                    android:layout_marginRight="10dp"
+                    android:layout_marginLeft="10dp"/>
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:background="@color/colorbackground"
+                    android:layout_marginTop="5dp"/>
+
+                <net.winnerawan.anekaresep.helper.MyTextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="¼ tsp. red pepper flakes"
+                    android:textColor="@color/colorheadtext"
+                    android:layout_marginTop="8dp"
+                    android:textSize="14dp"
+                    android:layout_marginRight="10dp"
+                    android:layout_marginLeft="10dp"/>
+
+
+            </LinearLayout>
+
+            <!--// Nutritional//-->
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#fff"
+                android:layout_marginTop="8dp"
+                android:orientation="vertical"
+                android:padding="10dp">
+
+
+                <net.winnerawan.anekaresep.helper.MyTextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Nutritional Facts"
+                    android:textColor="@color/colortitletext"
+                    android:textSize="18dp"
+                    android:letterSpacing="0.05"
+                    android:layout_marginRight="10dp"
+                    android:layout_marginLeft="10dp"
+                    />
+                <net.winnerawan.anekaresep.helper.MyTextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Caloris"
+                    android:textColor="@color/colorheadtext"
+                    android:layout_marginTop="5dp"
+                    android:textSize="14dp"
+                    android:layout_marginRight="10dp"
+                    android:layout_marginLeft="10dp"/>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:background="@color/colorbackground"
+                    android:padding="8dp"
+                    android:layout_marginTop="5dp"/>
+
+
+                <net.winnerawan.anekaresep.helper.MyTextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Facts"
+                    android:textColor="@color/colorheadtext"
+                    android:layout_marginTop="8dp"
+                    android:textSize="14dp"
+                    android:layout_marginRight="10dp"
+                    android:layout_marginLeft="10dp"/>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:background="@color/colorbackground"
+                    android:padding="8dp"
+                    android:layout_marginTop="5dp"/>
+
+                <net.winnerawan.anekaresep.helper.MyTextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Protiens"
+                    android:textSize="14dp"
+                    android:textColor="@color/colorheadtext"
+                    android:layout_marginTop="8dp"
+                    android:layout_marginRight="10dp"
+                    android:layout_marginLeft="10dp">
+                </net.winnerawan.anekaresep.helper.MyTextView>
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:background="@color/colorbackground"
+                    android:padding="8dp"
+                    android:layout_marginTop="5dp"/>
+
+                <net.winnerawan.anekaresep.helper.MyTextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Carbohydrates"
+                    android:textSize="14dp"
+                    android:textColor="@color/colorheadtext"
+                    android:layout_marginTop="8dp"
+                    android:layout_marginRight="10dp"
+                    android:layout_marginLeft="10dp">
+                </net.winnerawan.anekaresep.helper.MyTextView>
+
+            </LinearLayout>
+
+            <!--//Delivery//-->
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#fff"
+                android:layout_marginTop="8dp"
+                android:orientation="vertical"
+                android:padding="10dp"
+                android:layout_marginBottom="12dp">
+
+
+                <net.winnerawan.anekaresep.helper.MyTextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Delivery Information"
+                    android:textColor="@color/colortitletext"
+                    android:textSize="18dp"
+                    android:letterSpacing="0.05"
+                    android:layout_marginRight="10dp"
+                    android:layout_marginLeft="10dp"
+                    />
+
+                <net.winnerawan.anekaresep.helper.MyTextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="06:00 PM until 10:00 PM "
+                    android:textColor="@color/colorheadtext"
+                    android:layout_marginTop="8dp"
+                    android:textSize="14dp"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginRight="10dp">
+
+                </net.winnerawan.anekaresep.helper.MyTextView>
+            </LinearLayout>
+
+        </LinearLayout>
+
+
+    </ScrollView>
+
+    <com.google.android.gms.ads.AdView
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:ads="http://schemas.android.com/apk/res-auto"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:gravity="center"
+        ads:adSize="BANNER"
+        android:textStyle="bold"
+        ads:adUnitId="@string/adUnitID1">
+    </com.google.android.gms.ads.AdView>
+</RelativeLayout>
