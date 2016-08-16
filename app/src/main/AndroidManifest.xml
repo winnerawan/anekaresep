@@ -31,7 +31,22 @@
             android:theme="@android:style/Theme.Translucent" />
         <activity android:name=".activity.MainActivity" />
         <activity android:name=".activity.DetailActivity" />
-        <activity android:name=".activity.AboutActivity"></activity>
+        <activity android:name=".activity.AboutActivity" />
+        <activity android:name=".activity.DisclaimerActivity"
+            android:parentActivityName=".activity.MainActivity" >
+        <meta-data
+            android:name="android.support.PARENT_ACTIVITY"
+            android:value=".activity.MainActivity" />
+        </activity>
+        <activity android:name=".activity.TipsActivity"
+            android:parentActivityName=".activity.MainActivity" >
+        <meta-data
+            android:name="android.support.PARENT_ACTIVITY"
+            android:value=".activity.MainActivity" />
+        </activity>
+        <activity android:name=".activity.DetailTipsActivity">
+
+        </activity>
     </application>
 
 </manifest>

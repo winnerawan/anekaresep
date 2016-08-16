@@ -5,18 +5,23 @@ package net.winnerawan.anekaresep.model;
  */
 public class KueBasah {
 
-    String id,gambar,judul,awal,bahan,cara,keterangan,akhir,rate;
+    String id,awal,gambar,judul,kategori,bahan,cara,keterangan,akhir,rate,time;
 
-    public KueBasah(String id, String gambar, String judul, String awal, String bahan, String cara, String keterangan, String akhir,String rate) {
+    public KueBasah(){
+    }
+
+    public KueBasah(String id, String gambar, String judul,String kategori, String awal, String bahan, String cara, String keterangan, String akhir,String rate, String time) {
         this.id=id;
         this.gambar=gambar;
         this.judul=judul;
+        this.kategori=kategori;
         this.awal=awal;
         this.bahan=bahan;
         this.cara=cara;
         this.keterangan=keterangan;
         this.akhir=akhir;
         this.rate=rate;
+        this.time=time;
     }
 
     public String getId() {
@@ -89,5 +94,21 @@ public class KueBasah {
 
     public void setRate(String rate) {
         this.rate = rate;
+    }
+
+    public String getKategori() {
+        return kategori;
+    }
+
+    public void setKategori(String kategori) {
+        this.kategori = kategori;
+    }
+
+    public String getTime() {
+        return time;
+    }
+
+    public void setTime(String time) {
+        this.time = time;
     }
 }

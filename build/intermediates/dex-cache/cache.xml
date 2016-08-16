@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/build/intermediates/pre-dexed/release/com.android.support-support-vector-drawable-24.0.0_3b3446ad51de94dfbab8fd854ef9f5f98aa404fd.jar" />
+    </item>
+    <item
+        jar="/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/build/intermediates/pre-dexed/release/internal_impl-24.0.0_2848fcbe1b88b697f17ff75e49fdfbf70a41dd67.jar" />
+    </item>
+    <item
+        jar="/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="cc178928721f3222b3b06bdfbd9497378ccb9792">
+        <dex dex="/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-basement-9.0.0_c942f597eb6dfe0aa5c893c6fad73feb5d7bfa15.jar" />
+    </item>
+    <item
+        jar="/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/build/intermediates/pre-dexed/release/com.android.support-animated-vector-drawable-24.0.0_1ef9c147aff3194d69d8efde3a27c08fbefcfbf8.jar" />
+    </item>
+    <item
+        jar="/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="ea4b54dcbfe5ac05efb0a314105f07258118d3a7">
+        <dex dex="/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/build/intermediates/pre-dexed/release/com.google.firebase-firebase-iid-9.0.0_aa89a686f249acdb4c232f25ba8f815f3a27b0e9.jar" />
+    </item>
+    <item
+        jar="/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="42df48c7305b08b14fa0e84561091b0c24d70d26">
+        <dex dex="/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/build/intermediates/pre-dexed/release/com.google.firebase-firebase-common-9.0.0_0a0ee95c4b1673b4addad9e9a5efb59d070b805c.jar" />
+    </item>
+    <item
+        jar="/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="2cb29455028e92e024bbad0d41c6ec772f2433d1">
+        <dex dex="/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-ads-9.0.0_3a73458894d7564bfe1929608a015e58fad04586.jar" />
+    </item>
+    <item
+        jar="/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="894922f67adeaaef51f077a29e315da21a3382d3">
+        <dex dex="/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/build/intermediates/pre-dexed/release/com.android.support-recyclerview-v7-24.0.0_2cb4753ec5b74d79f9a1f9cdad37118d4ee79f5f.jar" />
+    </item>
+    <item
+        jar="/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/build/intermediates/exploded-aar/com.astuetz/pagerslidingtabstrip/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="7912610ed96381c25c36d986eba422731b9641b6">
+        <dex dex="/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/build/intermediates/pre-dexed/release/com.astuetz-pagerslidingtabstrip-1.0.1_970e207166cd5a4143309615b270fdef6441efb4.jar" />
+    </item>
+    <item
+        jar="/Users/winnerawan/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/24.0.0/2943c74db6d4346ab8c6531adac91fa05c137c40/support-annotations-24.0.0.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/build/intermediates/pre-dexed/release/support-annotations-24.0.0_b17a4be47abe5efdb70efda5d9ee0796e2bfcc75.jar" />
+    </item>
+    <item
+        jar="/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/build/intermediates/exploded-aar/com.quinny898.library.persistentsearch/library/1.0.0-SNAPSHOT/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="d9e6a2ccc58aab94867f3b2ecb73eef5864abb73">
+        <dex dex="/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/build/intermediates/pre-dexed/release/com.quinny898.library.persistentsearch-library-1.0.0-SNAPSHOT_65301f88439c642d092706f2ebdaaf2434815aef.jar" />
+    </item>
+    <item
+        jar="/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="1941832901fc4e7a93300b53762e9f65d7650b99">
+        <dex dex="/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-tasks-9.0.0_e6daff14a5cb8835078cb3f5ac36ada803995041.jar" />
+    </item>
+    <item
+        jar="/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="4ef8ab5fee042023018249474bc93bd4b2b9c17e">
+        <dex dex="/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/build/intermediates/pre-dexed/release/com.google.firebase-firebase-analytics-9.0.0_1005425f3168ab5903bef688ba39cc963fdbbfd0.jar" />
+    </item>
+    <item
+        jar="/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="6f65c144283b31b4b9a70e6e7aa4c4a1c897d4b8">
+        <dex dex="/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-base-9.0.0_e9a488ee47de917fa06e6b16f55468d8ca648254.jar" />
+    </item>
+    <item
+        jar="/Users/winnerawan/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/build/intermediates/pre-dexed/release/library-2.4.0_951d13b5187bc537ec3b2d4bfb4171fdb04498b2.jar" />
+    </item>
+    <item
+        jar="/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/build/intermediates/exploded-aar/com.android.support/design/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="fc29308a7a8f6d4407b34634eb48fb8b817f9b23">
+        <dex dex="/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/build/intermediates/pre-dexed/release/com.android.support-design-24.0.0_dc981bb4234f9b85a00ba09cbb0e365ba53e18bc.jar" />
+    </item>
+    <item
+        jar="/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="0dc8ab07eeceda5e99b305c8069765056b6e5c9d">
+        <dex dex="/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/build/intermediates/pre-dexed/release/com.google.firebase-firebase-analytics-impl-9.0.0_55c1e47f27ccaf8675799536195b06eb2297ae00.jar" />
+    </item>
+    <item
+        jar="/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/build/intermediates/pre-dexed/release/com.android.support-support-v4-24.0.0_35d457ab5893d805a142f92cba489279f44b66cd.jar" />
+    </item>
+    <item
+        jar="/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/build/intermediates/exploded-aar/com.android.volley/volley/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/build/intermediates/pre-dexed/release/com.android.volley-volley-1.0.0_fd12c97fa334df484988b045b55012cf2e773cae.jar" />
+    </item>
+    <item
+        jar="/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="79e4b41db41d4dbbf364c7bd6aaeee5b876c9d8b">
+        <dex dex="/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-ads-lite-9.0.0_aedd472ea2edbf5a6994d409fedd0107af3da337.jar" />
+    </item>
+    <item
+        jar="/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/build/intermediates/pre-dexed/release/com.android.support-appcompat-v7-24.0.0_002eac609a07182fd3b92fc5088bc5d8d43afa1e.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,390 @@
+[
+    {
+        "merged": "/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png",
+        "source": "/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable-hdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/common_google_signin_btn_icon_light_pressed.9.png",
+        "source": "/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/drawable-hdpi-v4/common_google_signin_btn_icon_light_pressed.9.png"
+    },
+    {
+        "merged": "/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/common_google_signin_btn_icon_light_normal.9.png",
+        "source": "/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/drawable-hdpi-v4/common_google_signin_btn_icon_light_normal.9.png"
+    },
+    {
+        "merged": "/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/common_plus_signin_btn_icon_dark_normal.9.png",
+        "source": "/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/drawable-hdpi-v4/common_plus_signin_btn_icon_dark_normal.9.png"
+    },
+    {
+        "merged": "/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/common_google_signin_btn_text_light_normal.9.png",
+        "source": "/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/drawable-hdpi-v4/common_google_signin_btn_text_light_normal.9.png"
+    },
+    {
+        "merged": "/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_list_selector_disabled_holo_dark.9.png",
+        "source": "/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable-hdpi-v4/abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/three.png",
+        "source": "/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/src/main/res/drawable-hdpi/three.png"
+    },
+    {
+        "merged": "/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_list_divider_mtrl_alpha.9.png",
+        "source": "/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable-hdpi-v4/abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable-hdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_spinner_mtrl_am_alpha.9.png",
+        "source": "/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable-hdpi-v4/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/common_google_signin_btn_text_dark_focused.9.png",
+        "source": "/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/drawable-hdpi-v4/common_google_signin_btn_text_dark_focused.9.png"
+    },
+    {
+        "merged": "/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/common_google_signin_btn_text_dark_pressed.9.png",
+        "source": "/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/drawable-hdpi-v4/common_google_signin_btn_text_dark_pressed.9.png"
+    },
+    {
+        "merged": "/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable-hdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/common_google_signin_btn_icon_dark_focused.9.png",
+        "source": "/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/drawable-hdpi-v4/common_google_signin_btn_icon_dark_focused.9.png"
+    },
+    {
+        "merged": "/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/common_plus_signin_btn_icon_dark_disabled.9.png",
+        "source": "/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/drawable-hdpi-v4/common_plus_signin_btn_icon_dark_disabled.9.png"
+    },
+    {
+        "merged": "/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/common_plus_signin_btn_text_light_focused.9.png",
+        "source": "/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/drawable-hdpi-v4/common_plus_signin_btn_text_light_focused.9.png"
+    },
+    {
+        "merged": "/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/food.jpg",
+        "source": "/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/src/main/res/drawable-hdpi/food.jpg"
+    },
+    {
+        "merged": "/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/common_plus_signin_btn_text_light_normal.9.png",
+        "source": "/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/drawable-hdpi-v4/common_plus_signin_btn_text_light_normal.9.png"
+    },
+    {
+        "merged": "/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/common_plus_signin_btn_icon_light_normal.9.png",
+        "source": "/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/drawable-hdpi-v4/common_plus_signin_btn_icon_light_normal.9.png"
+    },
+    {
+        "merged": "/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_star_black_36dp.png",
+        "source": "/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable-hdpi-v4/abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/plus.png",
+        "source": "/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/src/main/res/drawable-hdpi/plus.png"
+    },
+    {
+        "merged": "/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_copyright_black_24dp.png",
+        "source": "/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/src/main/res/drawable-hdpi/ic_copyright_black_24dp.png"
+    },
+    {
+        "merged": "/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/common_plus_signin_btn_text_dark_focused.9.png",
+        "source": "/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/drawable-hdpi-v4/common_plus_signin_btn_text_dark_focused.9.png"
+    },
+    {
+        "merged": "/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/common_google_signin_btn_text_light_pressed.9.png",
+        "source": "/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/drawable-hdpi-v4/common_google_signin_btn_text_light_pressed.9.png"
+    },
+    {
+        "merged": "/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/common_plus_signin_btn_icon_dark_focused.9.png",
+        "source": "/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/drawable-hdpi-v4/common_plus_signin_btn_icon_dark_focused.9.png"
+    },
+    {
+        "merged": "/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_up.png",
+        "source": "/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/build/intermediates/exploded-aar/com.quinny898.library.persistentsearch/library/1.0.0-SNAPSHOT/res/drawable-hdpi-v4/ic_up.png"
+    },
+    {
+        "merged": "/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/common_google_signin_btn_icon_light_focused.9.png",
+        "source": "/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/drawable-hdpi-v4/common_google_signin_btn_icon_light_focused.9.png"
+    },
+    {
+        "merged": "/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_clear.png",
+        "source": "/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/build/intermediates/exploded-aar/com.quinny898.library.persistentsearch/library/1.0.0-SNAPSHOT/res/drawable-hdpi-v4/ic_clear.png"
+    },
+    {
+        "merged": "/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable-hdpi-v4/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable-hdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/common_plus_signin_btn_icon_light_pressed.9.png",
+        "source": "/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/drawable-hdpi-v4/common_plus_signin_btn_icon_light_pressed.9.png"
+    },
+    {
+        "merged": "/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/common_plus_signin_btn_icon_dark_pressed.9.png",
+        "source": "/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/drawable-hdpi-v4/common_plus_signin_btn_icon_dark_pressed.9.png"
+    },
+    {
+        "merged": "/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable-hdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable-hdpi-v4/abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_menu.png",
+        "source": "/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/build/generated/res/pngs/debug/drawable-hdpi/ic_menu.png"
+    },
+    {
+        "merged": "/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable-hdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable-hdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_list_selector_disabled_holo_light.9.png",
+        "source": "/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable-hdpi-v4/abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/common_google_signin_btn_icon_dark_disabled.9.png",
+        "source": "/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/drawable-hdpi-v4/common_google_signin_btn_icon_dark_disabled.9.png"
+    },
+    {
+        "merged": "/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable-hdpi-v4/abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/common_plus_signin_btn_icon_light_disabled.9.png",
+        "source": "/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/drawable-hdpi-v4/common_plus_signin_btn_icon_light_disabled.9.png"
+    },
+    {
+        "merged": "/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/common_google_signin_btn_icon_dark_pressed.9.png",
+        "source": "/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/drawable-hdpi-v4/common_google_signin_btn_icon_dark_pressed.9.png"
+    },
+    {
+        "merged": "/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_star_half_black_16dp.png",
+        "source": "/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable-hdpi-v4/abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/common_plus_signin_btn_icon_light_focused.9.png",
+        "source": "/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/drawable-hdpi-v4/common_plus_signin_btn_icon_light_focused.9.png"
+    },
+    {
+        "merged": "/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_menu_share_mtrl_alpha.png",
+        "source": "/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable-hdpi-v4/abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/common_google_signin_btn_text_light_focused.9.png",
+        "source": "/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/drawable-hdpi-v4/common_google_signin_btn_text_light_focused.9.png"
+    },
+    {
+        "merged": "/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_list_pressed_holo_light.9.png",
+        "source": "/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable-hdpi-v4/abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_action_mic.png",
+        "source": "/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/build/intermediates/exploded-aar/com.quinny898.library.persistentsearch/library/1.0.0-SNAPSHOT/res/drawable-hdpi-v4/ic_action_mic.png"
+    },
+    {
+        "merged": "/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_scrubber_track_mtrl_alpha.9.png",
+        "source": "/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable-hdpi-v4/abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/common_google_signin_btn_icon_dark_normal.9.png",
+        "source": "/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/drawable-hdpi-v4/common_google_signin_btn_icon_dark_normal.9.png"
+    },
+    {
+        "merged": "/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/common_google_signin_btn_text_light_disabled.9.png",
+        "source": "/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/drawable-hdpi-v4/common_google_signin_btn_text_light_disabled.9.png"
+    },
+    {
+        "merged": "/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/common_google_signin_btn_text_dark_disabled.9.png",
+        "source": "/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/drawable-hdpi-v4/common_google_signin_btn_text_dark_disabled.9.png"
+    },
+    {
+        "merged": "/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/cupcake.jpg",
+        "source": "/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/src/main/res/drawable-hdpi/cupcake.jpg"
+    },
+    {
+        "merged": "/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_btn_radio_to_on_mtrl_015.png",
+        "source": "/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable-hdpi-v4/abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_receipt_black_24dp.png",
+        "source": "/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/src/main/res/drawable-hdpi/ic_receipt_black_24dp.png"
+    },
+    {
+        "merged": "/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_list_longpressed_holo.9.png",
+        "source": "/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable-hdpi-v4/abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_switch_track_mtrl_alpha.9.png",
+        "source": "/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable-hdpi-v4/abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/common_google_signin_btn_text_dark_normal.9.png",
+        "source": "/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/drawable-hdpi-v4/common_google_signin_btn_text_dark_normal.9.png"
+    },
+    {
+        "merged": "/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable-hdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_info_outline_black_24dp.png",
+        "source": "/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/src/main/res/drawable-hdpi/ic_info_outline_black_24dp.png"
+    },
+    {
+        "merged": "/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/clock.png",
+        "source": "/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/src/main/res/drawable-hdpi/clock.png"
+    },
+    {
+        "merged": "/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/common_plus_signin_btn_text_light_disabled.9.png",
+        "source": "/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/drawable-hdpi-v4/common_plus_signin_btn_text_light_disabled.9.png"
+    },
+    {
+        "merged": "/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/noodles.jpg",
+        "source": "/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/src/main/res/drawable-hdpi/noodles.jpg"
+    },
+    {
+        "merged": "/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/common_plus_signin_btn_text_dark_normal.9.png",
+        "source": "/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/drawable-hdpi-v4/common_plus_signin_btn_text_dark_normal.9.png"
+    },
+    {
+        "merged": "/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png",
+        "source": "/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable-hdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_btn_radio_to_on_mtrl_000.png",
+        "source": "/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable-hdpi-v4/abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/common_full_open_on_phone.png",
+        "source": "/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/drawable-hdpi-v4/common_full_open_on_phone.png"
+    },
+    {
+        "merged": "/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_star_black_16dp.png",
+        "source": "/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable-hdpi-v4/abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/whitepasta.jpg",
+        "source": "/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/src/main/res/drawable-hdpi/whitepasta.jpg"
+    },
+    {
+        "merged": "/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable-hdpi-v4/abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_btn_check_to_on_mtrl_000.png",
+        "source": "/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable-hdpi-v4/abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/foodb.jpg",
+        "source": "/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/src/main/res/drawable-hdpi/foodb.jpg"
+    },
+    {
+        "merged": "/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable-hdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/cake.jpg",
+        "source": "/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/src/main/res/drawable-hdpi/cake.jpg"
+    },
+    {
+        "merged": "/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/arrowback.png",
+        "source": "/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/src/main/res/drawable-hdpi/arrowback.png"
+    },
+    {
+        "merged": "/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/burgerchizz.jpg",
+        "source": "/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/src/main/res/drawable-hdpi/burgerchizz.jpg"
+    },
+    {
+        "merged": "/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/common_plus_signin_btn_text_dark_disabled.9.png",
+        "source": "/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/drawable-hdpi-v4/common_plus_signin_btn_text_dark_disabled.9.png"
+    },
+    {
+        "merged": "/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/common_google_signin_btn_icon_light_disabled.9.png",
+        "source": "/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/drawable-hdpi-v4/common_google_signin_btn_icon_light_disabled.9.png"
+    },
+    {
+        "merged": "/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/search_bg.9.png",
+        "source": "/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/build/intermediates/exploded-aar/com.quinny898.library.persistentsearch/library/1.0.0-SNAPSHOT/res/drawable-hdpi-v4/search_bg.9.png"
+    },
+    {
+        "merged": "/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_star_half_black_48dp.png",
+        "source": "/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable-hdpi-v4/abc_ic_star_half_black_48dp.png"
+    },
+    {
+        "merged": "/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_list_focused_holo.9.png",
+        "source": "/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable-hdpi-v4/abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png",
+        "source": "/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable-hdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable-hdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_feedback_black_24dp.png",
+        "source": "/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/src/main/res/drawable-hdpi/ic_feedback_black_24dp.png"
+    },
+    {
+        "merged": "/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png",
+        "source": "/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable-hdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_list_pressed_holo_dark.9.png",
+        "source": "/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable-hdpi-v4/abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/arrows.png",
+        "source": "/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/src/main/res/drawable-hdpi/arrows.png"
+    },
+    {
+        "merged": "/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_star_half_black_36dp.png",
+        "source": "/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable-hdpi-v4/abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_scrubber_control_off_mtrl_alpha.png",
+        "source": "/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable-hdpi-v4/abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_textfield_default_mtrl_alpha.9.png",
+        "source": "/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable-hdpi-v4/abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/common_plus_signin_btn_text_light_pressed.9.png",
+        "source": "/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/drawable-hdpi-v4/common_plus_signin_btn_text_light_pressed.9.png"
+    },
+    {
+        "merged": "/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_star_black_48dp.png",
+        "source": "/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable-hdpi-v4/abc_ic_star_black_48dp.png"
+    },
+    {
+        "merged": "/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/common_ic_googleplayservices.png",
+        "source": "/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/drawable-hdpi-v4/common_ic_googleplayservices.png"
+    },
+    {
+        "merged": "/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_popup_background_mtrl_mult.9.png",
+        "source": "/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable-hdpi-v4/abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/common_plus_signin_btn_text_dark_pressed.9.png",
+        "source": "/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/drawable-hdpi-v4/common_plus_signin_btn_text_dark_pressed.9.png"
+    },
+    {
+        "merged": "/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/commerce.png",
+        "source": "/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/src/main/res/drawable-hdpi/commerce.png"
+    },
+    {
+        "merged": "/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_btn_check_to_on_mtrl_015.png",
+        "source": "/Users/winnerawan/AndroidStudioProjects/AnekaResep/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable-hdpi-v4/abc_btn_check_to_on_mtrl_015.png"
+    }
+]

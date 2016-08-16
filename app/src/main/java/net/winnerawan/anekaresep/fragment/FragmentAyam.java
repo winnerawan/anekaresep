@@ -15,17 +15,20 @@ import com.android.volley.Response;
 import com.android.volley.VolleyError;
 import com.android.volley.VolleyLog;
 import com.android.volley.toolbox.JsonArrayRequest;
+import com.google.android.gms.ads.AdListener;
+import com.google.android.gms.ads.AdLoader;
 import com.google.android.gms.ads.AdRequest;
 import com.google.android.gms.ads.MobileAds;
+import com.google.android.gms.ads.formats.NativeAdOptions;
+import com.google.android.gms.ads.formats.NativeAppInstallAd;
+import com.google.android.gms.ads.formats.NativeContentAd;
 
 import net.winnerawan.anekaresep.R;
 import net.winnerawan.anekaresep.activity.DetailActivity;
 import net.winnerawan.anekaresep.activity.MainActivity;
 import net.winnerawan.anekaresep.adapter.ListAyamAdapter;
-import net.winnerawan.anekaresep.admobadapter.AdmobAdapterWrapper;
 import net.winnerawan.anekaresep.config.AppConfig;
 import net.winnerawan.anekaresep.config.AppController;
-import net.winnerawan.anekaresep.helper.ExpandableHeightListView;
 import net.winnerawan.anekaresep.model.Ayam;
 
 import org.json.JSONArray;
@@ -48,8 +51,7 @@ public class FragmentAyam extends ListFragment {
     private List<Ayam> listResepAyam = new ArrayList<Ayam>();
     private ListAyamAdapter adapter;
     ListView listViewResep;
-    AdmobAdapterWrapper adapterWrapper;
-    Timer updateAdsTimer;
+
 
     public FragmentAyam() {
     }
@@ -63,21 +65,10 @@ public class FragmentAyam extends ListFragment {
         listViewResep = (ListView) viewAyam.findViewById(android.R.id.list);
         adapter = new ListAyamAdapter(this, listResepAyam);
         listViewResep.setAdapter(adapter);
-        MobileAds.initialize(getActivity().getApplicationContext(), getString(R.string.appID));
-        //********upcoming in the v1.2 !
-        //test devices' ids
-        String[] testDevicesIds = new String[]{getString(R.string.testDeviceID), AdRequest.DEVICE_ID_EMULATOR};
-        //when you'll be ready for release please use anoth
-        adapterWrapper = new AdmobAdapterWrapper(this.getContext(), getString(R.string.adUnitID1));
-        adapterWrapper.setAdapter(adapter);
-        adapterWrapper.setLimitOfAds(3);
-        adapterWrapper.setNoOfDataBetweenAds(10);
-        adapterWrapper.setFirstAdIndex(2);
-        listViewResep.setAdapter(adapterWrapper);
+        listResepAyam.clear();
         pDialog = new ProgressDialog(getActivity());
         pDialog.setMessage("Loading...");
         pDialog.show();
-
         JsonArrayRequest resepReq = new JsonArrayRequest(AppConfig.URL_GET_RESEP_AYAM, new Response.Listener<JSONArray>() {
             @Override
             public void onResponse(JSONArray response) {
@@ -98,6 +89,7 @@ public class FragmentAyam extends ListFragment {
                         ayam.setTime(obj.getString("time"));
                         ayam.setRate(obj.getString("rate"));
                         ayam.setKategori(obj.getString("kategori"));
+                        //String image = ayam.getGambar();
                         listResepAyam.add(ayam);
                     } catch (JSONException e) {
                         e.printStackTrace();
@@ -114,7 +106,6 @@ public class FragmentAyam extends ListFragment {
             }
         });
         AppController.getInstance().addToRequestQueue(resepReq);
-        initUpdateAdsTimer();
         return viewAyam;
     }
 
@@ -122,9 +113,20 @@ public class FragmentAyam extends ListFragment {
     public void onListItemClick(ListView l, View v, int position, long id) {
         super.onListItemClick(l, v, position, id);
         String title = ((TextView)v.findViewById(R.id.title)).getText().toString().trim();
-
+        Ayam ay = listResepAyam.get(position);
         Intent i = new Intent(getActivity(), DetailActivity.class);
         i.putExtra("title", title);
+
+        i.putExtra("gambar", ay.getGambar());
+        i.putExtra("awal", ay.getAwal().replaceAll("</li>", "\n")
+                .replaceAll("<(.*?)\\>"," "));
+        i.putExtra("bahan", ay.getBahan().replaceAll("</li>", "\n")
+        .replaceAll("<(.*?)\\>"," "));
+        i.putExtra("cara", ay.getCara().replaceAll("</li>", "\n")
+        .replaceAll("<(.*?)\\>"," "));
+        i.putExtra("rate", ay.getRate());
+        i.putExtra("akhir", ay.getAkhir().replaceAll("</li>", "\n")
+                .replaceAll("<(.*?)\\>"," "));
         startActivity(i);
     }
 
@@ -132,27 +134,8 @@ public class FragmentAyam extends ListFragment {
     public void onDestroy() {
         super.onDestroy();
         hidePDialog();
-        if(updateAdsTimer!=null)
-            updateAdsTimer.cancel();
-        adapterWrapper.destroyAds();
     }
-    /*
-        * Could be omitted. It's only for updating an ad blocks in each 60 seconds without refreshing the list
-         */
-    private void initUpdateAdsTimer() {
-        updateAdsTimer = new Timer();
-        updateAdsTimer.schedule(new TimerTask() {
-            @Override
-            public void run() {
-                getActivity().runOnUiThread(new Runnable() {
-                    @Override
-                    public void run() {
-                        adapterWrapper.requestUpdateAd();
-                    }
-                });
-            }
-        }, 60*1000, 60*1000);
-    }
+
     private void hidePDialog() {
         if (pDialog != null) {
             pDialog.dismiss();
